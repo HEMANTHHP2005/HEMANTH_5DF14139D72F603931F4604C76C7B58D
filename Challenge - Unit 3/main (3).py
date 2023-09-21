@@ -1,4 +1,4 @@
-#Lets implement a function sort_students
+#Let implement a function sort_students
 #with each student attributes of name,rollnumber and cgpa
 #And sort The students using CGPA in Descending Order
 #Check the function with different Input
